@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Kourav
 - 👀 I’m interested in to create the Application Web based 
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence 
+- 🌱 I’ve good experince on  Machine Learning and Artificial Intelligence 
 - 💞️ I’m looking to collaborate on Microservicaes and Web based Application 
 - 📫 you can reach me on: kourav.j2ee@gmail.com
 
